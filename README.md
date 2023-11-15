@@ -8,8 +8,8 @@ Not only you're able to ping based on the txt file, but you'll also be able to o
 
 Commands:
 
--h: shows command list
--r: print hosts.txt content
--o: open hosts.txt file with your preferred text editor
+-h: shows command list  
+-r: print hosts.txt content  
+-o: open hosts.txt file with your preferred text editor  
 -p: run ping
 -s: exit
