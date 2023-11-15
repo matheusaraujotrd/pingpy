@@ -11,5 +11,5 @@ Commands:
 -h: shows command list  
 -r: print hosts.txt content  
 -o: open hosts.txt file with your preferred text editor  
--p: run ping
+-p: run ping  
 -s: exit
